@@ -1,0 +1,102 @@
+h1{
+text-align: center;
+margin-bottom: 15px;
+color: darkblue;
+-webkit-text-stroke-color: #FFF;
+-webkit-text-stroke: 30%;
+font-size: 400%;
+font-family: fantasy;
+}
+
+div.row { 
+    background-color: mediumorchid;
+    padding: 30px; border-radius: 40px;
+    box-shadow: 4px 4px 50px aqua;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px; 
+    -o-border-radius: 40px;
+  
+    
+}
+
+
+#dni {
+margin-bottom: 10px;
+color: blueviolet;
+font-weight: 400;
+font-family: fantasy;
+font-size: 100%;
+}
+
+#nombre {
+    margin-bottom: 10px;
+    color: blueviolet;
+    font-weight: 400;
+    font-family: fantasy;
+    font-size: 100%;
+    }
+
+    #apellido{
+        margin-bottom: 10px;
+        color: blueviolet;
+        font-weight: 400;
+        font-family: fantasy;
+        font-size: 100%;
+        }
+
+
+
+#btnEnviar{
+    background-color: gold;
+    color: black;
+    font-size: 156% ;
+    border-bottom: 10cap;
+    box-shadow: 4px 4px 60px orange;
+    padding: 10px 220px;
+    border-radius: 5px;
+    cursor: pointer;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    text-align: center;
+    align-content: center;
+    font-family: fantasy;
+}
+
+.div-listado {
+margin-top: 30px;
+color: black;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 30px;
+    color: darkblue;
+    -webkit-text-stroke-color: #FFF;
+    -webkit-text-stroke: 30%;
+    font-size: 300%;
+    font-family: fantasy;
+    }
+
+.div-empleados {
+background-color:  mediumorchid;
+color: yellow;
+font-family: fantasy;
+font-size: 200%;
+padding: 30px; border-radius: 40px;
+box-shadow: 4px 4px 50px aqua;
+margin-left: auto;
+margin-right: auto;
+width: 90%;
+-webkit-border-radius: 40px;
+-moz-border-radius: 40px;
+-ms-border-radius: 40px; 
+-o-border-radius: 40px;
+}
+
+
